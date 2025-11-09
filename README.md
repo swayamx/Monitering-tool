@@ -127,7 +127,7 @@ CPU: 12.45%   Mem: 8192000 KB total, 2100340 KB used
 
 ## 👨‍💻 Author
 
-**Name:** Kumar Premsai  
+**Name:** Swayam Jyoti Routray 
 **Institute:** ITER, Siksha 'O' Anusandhan  
 **Project Title:** System Monitor Tool  
 
